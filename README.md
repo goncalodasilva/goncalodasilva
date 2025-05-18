@@ -43,15 +43,9 @@ A murder mystery role-playing game app to play with friends at parties! Built to
 
 Check it out live at [plottwist-ai.com](https://www.plottwist-ai.com/)!
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalodasilva&show_icons=true&theme=radical)
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonçalo-silva-798514152/) 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://www.plottwist-ai.com/)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=goncalodasilva&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 ⭐️ From [goncalodasilva](https://github.com/goncalodasilva)

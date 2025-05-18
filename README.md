@@ -24,7 +24,6 @@ I'm a full stack developer passionate about creating projects to learn new techn
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ## 🎮 Featured Project: Plottwist AI
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://www.plottwist-ai.com/)
 A murder mystery role-playing game app to play with friends at parties! Built to gain experience with Large Language Models.
 
 <p align="center">

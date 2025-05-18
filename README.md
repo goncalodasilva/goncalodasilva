@@ -1,6 +1,6 @@
 # Hi there, I'm Gonçalo Silva 👋
 
-![Hero Banner](https://raw.githubusercontent.com/goncalodasilva/goncalodasilva/main/assets/hero-banner.png)
+![Hero Banner](https://raw.githubusercontent.com/goncalodasilva/goncalodasilva/main/assets/github-background.png)
 
 ## 🚀 About Me
 I'm a full stack developer passionate about creating projects to learn new technologies and explore what I can achieve. Currently working professionally with Java, but I have extensive experience across the entire stack from frontend to backend and databases. I'm especially excited about experimenting with the latest AI tools and building innovative projects!
